@@ -26,4 +26,4 @@ SMAA is a web based application for analyzing sentiments for ISPs using Twitter 
 
 ## Requirements
 
-[Requirements](https://github.com/jonathaniskandar/Final-Project/blob/master/requirements.txt)
+[Requirements](https://github.com/jonathaniskandar/Final-Project/requirements.txt)
